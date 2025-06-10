@@ -1,7 +1,7 @@
-##🎮 Game Box
+# 🎮 Game Box
 Um aplicativo social para catalogar, avaliar e criar listas de jogos, inspirado no conceito do Letterboxd. Este projeto foi construído com React Native (usando Expo) e se conecta ao Firebase para autenticação e armazenamento de dados, e à API da RAWG.io para informações sobre os jogos.
 
-##📋 Índice
+# 📋 Índice
 Funcionalidades
 
 Tecnologias Utilizadas
@@ -18,7 +18,7 @@ Estrutura do Projeto
 
 Próximos Passos
 
-##✨ Funcionalidades
+# ✨ Funcionalidades
 ✅ Autenticação de Usuário: Sistema completo de Registro e Login com E-mail/Senha via Firebase Authentication.
 
 ✅ Integração com API Externa: Consumo da RAWG.io API para obter uma base de dados rica e atualizada de jogos.
@@ -57,7 +57,7 @@ Lógica de autenticação encapsulada em um Hook Customizado (useAuth).
 
 Componentes reutilizáveis como o GameCard.
 
-##🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 React Native (Expo): Framework para desenvolvimento de aplicativos móveis.
 
 JavaScript: Linguagem de programação principal.
@@ -78,7 +78,7 @@ Axios: Cliente HTTP para fazer as chamadas à API de jogos.
 
 RAWG.io API: Fonte de dados para os jogos.
 
-##🚀 Como Instalar e Rodar
+# 🚀 Como Instalar e Rodar
 Siga os passos abaixo para ter uma cópia do projeto rodando na sua máquina.
 
 Pré-requisitos
@@ -138,7 +138,7 @@ npx expo start
 
 Abra o aplicativo no seu navegador para testar a versão web, ou escaneie o QR Code com o app Expo Go no seu celular.
 
-##📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 O projeto segue uma estrutura de pastas organizada para separar as responsabilidades:
 
 /src
@@ -149,7 +149,7 @@ O projeto segue uma estrutura de pastas organizada para separar as responsabilid
 ├── screens/        # As telas principais do aplicativo
 └── services/       # Módulos para conversar com serviços externos (Firebase, API)
 
-##🔮 Próximos Passos
+# 🔮 Próximos Passos
 Idéias para a evolução do projeto:
 
 [ ] Implementar um Feed de Atividades social na aba ❤️.
